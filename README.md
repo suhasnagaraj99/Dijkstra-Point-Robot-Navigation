@@ -3,6 +3,8 @@
 ## Project Description
 This repository contains the implementation of the Dijkstra Algorithm for point robot navigation, developed as part of ENPM661 Project 2.
 
+![Video GIF](https://github.com/suhasnagaraj99/Dijkstra-Point-Robot-Navigation/blob/main/dijkstra_suhas_nagaraj.gif)
+
 ## Assumptions and Map Description
 - The robot is assumed to be a point robot
 - The robot has a clearance of 5 mm. 
